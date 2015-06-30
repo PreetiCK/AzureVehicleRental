@@ -5,7 +5,7 @@
 	<groupId>com.mindtree.awsfinalpresentation.controller</groupId>
 	<artifactId>VehiclePresentation</artifactId>
 	<packaging>war</packaging>
-	<version>3.1.1</version>
+	<version>3.1.2</version>
 	<name>${project.artifactId}</name>
 	<properties>
 		<org.springframework.version>3.2.1.RELEASE</org.springframework.version>
@@ -244,7 +244,7 @@
 			
 				<groupId>net.wouterdanes.docker</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
-			  <version>3.1-SNAPSHOT</version>
+			  <version>3.0.2-SNAPSHOT</version>
 				
 				<executions>
 					<execution>

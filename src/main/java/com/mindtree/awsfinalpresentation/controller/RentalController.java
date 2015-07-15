@@ -141,6 +141,7 @@ public class RentalController {
 		session.setAttribute("datepickercsslocation", datepickercsslocation);
 		session.setAttribute("businessURL", URL);
 		String page = "home";
+		System.out.println("hellooooooooooooooooo");
 		return page;
 	}
 
